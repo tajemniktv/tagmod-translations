@@ -2103,7 +2103,7 @@
 			},
 			{
 				"value": "Game Contracts",
-				"translation": "Kontrakty z grami"
+				"translation": "Kontrakty"
 			},
 			{
 				"value": "Topic and Genre",
@@ -2123,11 +2123,11 @@
 			},
 			{
 				"value": "Royalties",
-				"translation": "Opłaty licencyjne"
+				"translation": "Tantiemy"
 			},			
 			{
 				"value": "Penalty",
-				"translation": "Rzut karny"
+				"translation": "Kara"
 			},
 			{
 				"value": "Up-front Pay",
@@ -2135,11 +2135,11 @@
 			},
 			{
 				"value": "No License",
-				"translation": "Bez licencji"
+				"translation": "Brak licencji"
 			},		
 			{
 				"value": "Money",
-				"translation": "pieniądze"
+				"translation": "Pieniądze"
 			},
 			{
 				"value": "Payroll",
@@ -2159,7 +2159,7 @@
 			},
 			{
 				"value": "Monthly",
-				"translation": "Miesięczny"
+				"translation": "Miesięcznie"
 			},
 			{
 				"value": "Annually",
@@ -2199,15 +2199,15 @@
 			},
 			{
 				"value": "Dialogues",
-				"translation": "Dialogid"
+				"translation": "Dialogi"
 			},
 			{
 				"value": "Statistics",
-				"translation": "Statystyka"
+				"translation": "Statystyki"
 			},
 			{
 				"value": "Units Sold",
-				"translation": "Jednostki sprzedane"
+				"translation": "Sprzedano"
 			},
 			{
 				"value": "Costs",
@@ -2219,7 +2219,7 @@
 			},
 			{
 				"value": "Released",
-				"translation": "Wydany"
+				"translation": "Wydano"
 			},
 			{
 				"value": "Top Sales Rank",
@@ -2247,11 +2247,11 @@
 			},
 			{
 				"value": "Time Allocation",
-				"translation": "Przydział czasu"
+				"translation": "Przydział zadań"
 			},
 			{
 				"value": "Features",
-				"translation": "funkcje"
+				"translation": "Funkcje"
 			},
 			{
 				"value": "Cost",
@@ -2263,11 +2263,11 @@
 			},
 			{
 				"value": "Cost to Make",
-				"translation": "Koszt do zrobienia"
+				"translation": "Koszty wykonania"
 			},
 			{
 				"value": "Fans Gained",
-				"translation": "Fani zdobyte"
+				"translation": "Fani zdobyci"
 			},
 			{
 				"value": "Time",
@@ -2275,7 +2275,7 @@
 			},
 			{
 				"value": "Pay",
-				"translation": "Zapłacić"
+				"translation": "Zapłać"
 			},
 			{
 				"value": "Salary",
@@ -2319,7 +2319,7 @@
 			},
 			{
 				"value": "Insights",
-				"translation": "wgląd"
+				"translation": "Spostrzeżenia"
 			},
 			{
 				"value": "Engine Development",
@@ -2339,7 +2339,7 @@
 			},
 			{
 				"value": "Develop Expansion Pack",
-				"translation": "Opracuj pakiet rozszerzeń"
+				"translation": "Opracuj dodatek"
 			},
 			{
 				"value": "Y{0}",
